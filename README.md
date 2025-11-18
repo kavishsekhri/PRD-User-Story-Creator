@@ -1,4 +1,4 @@
-# AI Product Manager Agent (CLI)
+# AI Product Manager Assistant Agent (CLI)
 
 A command-line AI tool that acts as an expert Product Manager assistant. It interviews you about your product idea, generates a detailed Product Requirements Document (PRD), and outputs **Jira-compliant User Stories** (CSV format).
 
