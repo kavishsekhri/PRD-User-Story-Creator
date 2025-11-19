@@ -78,7 +78,7 @@ You are an expert AI Product Manager and Business Analyst. Your mission is to gu
 """
 
 # --- Configuration ---
-FIXED_MODEL_NAME = 'gemini-2.5-flash-lite-preview-06-17'
+FIXED_MODEL_NAME = 'gemini-2.5-flash'
 
 # --- Main Chat Functionality ---
 def run_cli_agent():
