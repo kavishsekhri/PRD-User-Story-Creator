@@ -9,17 +9,17 @@ A command-line AI tool that acts as an expert Product Manager assistant. It inte
 - **Jira-Ready Export:** Generates user stories formatted specifically for Jira import (Summary, Description, Labels).
 
 ## Demo
-![App Running](Discovery-1.png)
+![App Running](screenshots/Discovery-1.png)
 
-![PRD Output-1](PRD_Generation-1.png)
+![PRD Output-1](screenshots/PRD_Generation-1.png)
 
-![PRD Output-2](PRD_Generation-2.png)
+![PRD Output-2](screenshots/PRD_Generation-2.png)
 
-![User Story Output](User_Story_Generation.png)
+![User Story Output](screenshots/User_Story_Generation.png)
 
-![CSV Export](CSV_Export.png)
+![CSV Export](screenshots/CSV_Export.png)
 
-![CSV Import](CSV_Import.png)
+![CSV Import](screenshots/CSV_Import.png)
 
 ## Prerequisites
 
