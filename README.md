@@ -19,7 +19,7 @@ A command-line AI tool that acts as an expert Product Manager assistant. It inte
 
 ![CSV Export](screenshots/CSV_Export.png)
 
-![CSV Import](screenshots/CSV_Import.png)
+![CSV Import](screenshots/Jira_Import-1.png)
 
 ## Prerequisites
 
