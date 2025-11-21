@@ -4,6 +4,8 @@ A command-line AI tool that acts as an expert Product Manager assistant. It inte
 
 ## Features
 
+![Features Overview](screenshots/features.png)
+
 - **Interactive Discovery:** The AI asks you one question at a time to flesh out your idea.
 - **Full PRD Generation:** Automatically compiles technical, functional, and non-functional requirements.
 - **Jira-Ready Export:** Generates user stories formatted specifically for Jira import (Summary, Description, Labels).
