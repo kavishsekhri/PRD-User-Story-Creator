@@ -8,6 +8,19 @@ A command-line AI tool that acts as an expert Product Manager assistant. It inte
 - **Full PRD Generation:** Automatically compiles technical, functional, and non-functional requirements.
 - **Jira-Ready Export:** Generates user stories formatted specifically for Jira import (Summary, Description, Labels).
 
+## Demo
+![App Running](screenshots/Discovery-1.png)
+
+![PRD Output-1](screenshots/PRD_Generation-1.png)
+
+![PRD Output-2](screenshots/PRD_Generation-2.png)
+
+![User Story Output](screenshots/User_Story_Generation.png)
+
+![CSV Export](screenshots/CSV_Export.png)
+
+![CSV Import](screenshots/Jira_Import-1.png)
+
 ## Prerequisites
 
 You need to have **Python** installed on your computer.
